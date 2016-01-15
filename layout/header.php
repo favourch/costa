@@ -10,18 +10,18 @@
 
     <meta itemprop="name" content="Is Costa still Prime Minister?">
     <meta itemprop="description" content="Is António Costa still the portuguese Prime Minister?? Find out here.">
-    <meta itemprop="image" content="http://www.iscostastillpm.xyz/img/costa.jpg">
+    <meta itemprop="image" content="http://iscostastillpm.xyz/img/costa.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Is Costa still Prime Minister?">
     <meta name="twitter:description" content="Is António Costa still the portuguese Prime Minister?? Find out here.">
     <meta name="twitter:creator" content="@pedrobx">
-    <meta name="twitter:image:src" content="http://www.iscostastillpm.xyz/img/costa.jpg">
+    <meta name="twitter:image:src" content="http://iscostastillpm.xyz/img/costa.jpg">
 
     <meta property="og:title" content="Is Costa still Prime Minister?" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://www.iscostastillpm.xyz/" />
-    <meta property="og:image" content="http://www.iscostastillpm.xyz/img/costa.jpg" />
+    <meta property="og:url" content="http://iscostastillpm.xyz/" />
+    <meta property="og:image" content="http://iscostastillpm.xyz/img/costa.jpg" />
     <meta property="og:description" content="Is António Costa still the portuguese Prime Minister?? Find out here." />
     <meta property="og:site_name" content="Is Costa still Prime Minister?" />
     
