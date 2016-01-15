@@ -3,7 +3,7 @@ costa
 
 forked from https://github.com/nsimaria
 
-source code for http://www.iscostastillpm.xyz
+source code for http://iscostastillpm.xyz
 
 current contributors:
 
