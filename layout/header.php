@@ -15,7 +15,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Is Costa still Prime Minister?">
     <meta name="twitter:description" content="Is António Costa still the portuguese Prime Minister?? Find out here.">
-    <meta name="twitter:creator" content="@pedrobx">
+    <meta name="twitter:creator" content="@_pedro16v_">
     <meta name="twitter:image:src" content="http://iscostastillpm.xyz/img/costa.jpg">
 
     <meta property="og:title" content="Is Costa still Prime Minister?" />
