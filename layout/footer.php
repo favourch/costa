@@ -6,7 +6,7 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-30138793-2', 'auto');
+      ga('create', 'UA-72463938-1', 'auto');
       ga('send', 'pageview');
 
     </script>
@@ -22,7 +22,7 @@
       if ( $('.big-yes').data('in-jail') ){
         var timerId =
           countdown(
-            new Date( Date.UTC(2014,10,21,22,00) ),
+            new Date( Date.UTC(2013,10,26,16,02) ),
             function(ts) {
               $.each(ts, function( index, value ) {
                 $unit = $('.timer-item').find('.' + index)
@@ -40,14 +40,14 @@
       //window.clearInterval(timerId);
     </script>
 <?php endif; ?>
-    <div id="fb-root"></div>
+    <!-- <div id="fb-root"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
       js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=169221459857145&version=v2.0";
       fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+    }(document, 'script', 'facebook-jssdk'));</script> -->
 
   </body>
 </html>

@@ -8,11 +8,11 @@ $items = array ();
 
 $items[] = new \Nsimaria\Socrates\HistoryItem(
     array(
-        'dateIn' => '2014-11-21 22:00',
+        'dateIn' => '2015-11-26 16:02',
         'dateOut' => null,
-        'textIn' => 'José Sócrates was arrested upon his arrival at the Lisbon Airport.',
+        'textIn' => 'Portugal gets Antonio Costa as new PM after election winner only lasted 11 days',
         'textOut' => null,
-        'sourceIn' => 'http://www.bbc.com/news/world-europe-30160193',
+        'sourceIn' => 'http://www.theguardian.com/world/2015/nov/25/portugal-gets-new-leftwing-pm-after-election-winner-only-lasted-11-days',
         'sourceOut' => null,
     )
 );

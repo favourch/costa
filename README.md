@@ -1,14 +1,10 @@
-socrates
-========
+costa
+=====
 
-source code for http://www.issocratesinjail.com
+forked from https://github.com/nsimaria
 
-
-If anyone wants to go ahead and do the Javascript for the counter that'd be awesome.
-
+source code for http://www.iscostastillpm.xyz
 
 current contributors:
 
-- https://github.com/avromao
-- https://github.com/nsimaria
-- https://github.com/7Ds7
+- https://github.com/pedro16v

@@ -5,29 +5,26 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="google-site-verification" content="1cwIpQxTIwMqW6wwcQOxNX7m9KzraXu1j_XTdq0I4_g" />
-    <title>Is José Socrates in jail?</title>
+    <!-- <meta name="google-site-verification" content="1cwIpQxTIwMqW6wwcQOxNX7m9KzraXu1j_XTdq0I4_g" /> -->
+    <title>Is Costa still Prime Minister?</title>
 
-    <meta itemprop="name" content="Is José Socrates in jail?">
-    <meta itemprop="description" content="Is portuguese ex-Prime Minister José Sócrates in jail? Find out here.">
-    <meta itemprop="image" content="http://www.issocratesinjail.com/img/socrates.jpg">
+    <meta itemprop="name" content="Is Costa still Prime Minister?">
+    <meta itemprop="description" content="Is António Costa still the portuguese Prime Minister?? Find out here.">
+    <meta itemprop="image" content="http://www.iscostastillpm.xyz/img/costa.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Is José Socrates in jail?">
-    <meta name="twitter:description" content="Is portuguese ex-Prime Minister José Sócrates in jail? Find out here.">
-    <meta name="twitter:creator" content="@_nsimaria_">
-    <meta name="twitter:image:src" content="http://www.issocratesinjail.com/img/socrates.jpg">
+    <meta name="twitter:title" content="Is Costa still Prime Minister?">
+    <meta name="twitter:description" content="Is António Costa still the portuguese Prime Minister?? Find out here.">
+    <meta name="twitter:creator" content="@pedrobx">
+    <meta name="twitter:image:src" content="http://www.iscostastillpm.xyz/img/costa.jpg">
 
-    <meta property="og:title" content="Is José Socrates in jail?" />
+    <meta property="og:title" content="Is Costa still Prime Minister?" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://issocratesinjail.com/" />
-    <meta property="og:image" content="http://www.issocratesinjail.com/img/socrates.jpg" />
-    <meta property="og:description" content="Is portuguese ex-Prime Minister José Sócrates in jail? Find out here." />
-    <meta property="og:site_name" content="Is José Socrates in jail?" />
-    <meta property="article:published_time" content="2014-11-25T22:00:00+01:00" />
-    <meta property="article:modified_time" content="2014-11-26T01:00:00+01:00" />
-
-
+    <meta property="og:url" content="http://www.iscostastillpm.xyz/" />
+    <meta property="og:image" content="http://www.iscostastillpm.xyz/img/costa.jpg" />
+    <meta property="og:description" content="Is António Costa still the portuguese Prime Minister?? Find out here." />
+    <meta property="og:site_name" content="Is Costa still Prime Minister?" />
+    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles/main.css">
 
